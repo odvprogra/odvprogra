@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oscar Valle
 
-<!--
-**odvprogra/odvprogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer based in Santa Cruz de la Sierra, Bolivia.
 
-Here are some ideas to get you started:
+I build B2B SaaS products from architecture to production, focusing on business logic and AI agents that work with real operational data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `React` `Next.js` `Tailwind` `Java` `Spring Boot` `Claude API`
+
+## Focus
+
+- Building a B2B SaaS platform at FuinOS.
+- Working on projects around integrations, business logic and coding standards.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/oscarvallepe)
